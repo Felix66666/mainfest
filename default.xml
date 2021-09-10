@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<manifest>
+    <remote name="Felix66666" fetch="https://github.com/hrg-tof/" />
+    <default remote="anlory" revision="master"/>
+    <project path="local_hello" name="helo"/>
+    <project path="/xxx/bbb" name="bbb"/>
+</manifest>
