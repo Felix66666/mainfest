@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+
 <manifest>
-    <remote name="Felix66666" fetch="git@github.com:Felix66666/" />
+    <remote name="Felix66666" 
+      fetch="git@github.com:Felix66666/" 
+      review ="git@github.com:Felix66666/" />
     <default remote="Felix66666" revision="master"/>
-    <project path="repo_test1" name="test1"/>
-    <project path="repo_test2" name="test2"/>
+    <project path="test1" name="repo_test1"/>
+    <project path="test2" name="repo_test2"/>
 </manifest>
